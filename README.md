@@ -1,2 +1,2 @@
 # RLab-Bioinfo
-RLab 生信标准化分析流程与知识库
+RLab Standardized Bioinformatics Analysis Pipeline and Knowledge Base
