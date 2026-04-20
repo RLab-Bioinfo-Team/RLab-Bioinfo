@@ -5,6 +5,7 @@ RLab 单核 RNA-seq (snRNA-seq) 标准分析流程。包含：分析脚本、测
 - `01_pipeline/`: 核心分析脚本 (Jupyter Notebook 格式)
 - `02_test_data/`: 抽样测试矩阵与同源基因映射参考
 - `03_results/`: 预期输出的表格文件与 Marker 基因列表
+- `Troubleshooting.md`: 流程运行常见报错排查、环境配置与避坑指南
 
 ## 环境依赖
 * **Python**: Scanpy (用于 Part 1 Scrublet 双细胞核过滤)
